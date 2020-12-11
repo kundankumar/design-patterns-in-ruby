@@ -36,3 +36,6 @@ Contributions are welcome! What could you do?:
 * Add other GoF patterns that are not covered in the book
 
 **Code examples refactoring** PR's will **not be considered**. The examples provided by Russ Olsen in his book are meant to be simple and self explanatory, not the best performing or most elegant, their purpose is just educational.
+
+## Additional Resources
+For broad classification of design patterns into 3 categories please visit https://refactoring.guru/design-patterns/ruby
